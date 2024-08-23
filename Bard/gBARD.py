@@ -52,4 +52,3 @@ while True:
         speak(i)
         time.sleep(1)
 
-
